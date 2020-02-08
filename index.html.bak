@@ -1,0 +1,17 @@
+<!doctype html>
+        <html lang="en">
+		        <head>
+				        <meta charset="UTF-8">
+					        <title>GPIO Remote Control System</title>
+						        </head>
+							        <body>
+									          <h1>This site was only available for our members</h1>
+										            <p>Warning!<br/>
+											              &nbsp;&nbsp;&nbsp;&nbsp;You need to Sign in first.</p>
+											              The passcode is on <b>the back of the equipment</b> <br>
+												                <pre style="border: 1px dashed;">This site ONLY allow limited people to access, 
+														Please input the passcode.</pre>
+														          <form method='post'>Passcode: <input type="password" name="0" placeholder="" style="width: 190px;" /><br/><input type="hidden" name="origin" value="aHR0cHM6Ly9ndWdlNjg4OC54eXov" style="width: 190px;" /><button type='submit'>Sign in</button>
+																            </form>
+																	            </body>
+																		            </html>
